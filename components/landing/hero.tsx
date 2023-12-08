@@ -50,10 +50,10 @@ const Hero = () => {
                     Try Gemini Free
                   </Button>
                 </Link>
-                <a href="#features" className="text-sm font-semibold leading-6 text-gray-400">
+                <a href="https://twitter.com/GeminiAI_Dev" className="text-sm font-semibold leading-6 text-gray-400">
                   Twitter <span aria-hidden="true">→</span>
                 </a>
-                <a href="#features" className="text-sm font-semibold leading-6 text-gray-400">
+                <a href="https://t.me/GeminiAI_Solana" className="text-sm font-semibold leading-6 text-gray-400">
                   Telegram <span aria-hidden="true">→</span>
                 </a>
               </div>
