@@ -30,7 +30,7 @@ const SubscriptionButton:React.FC<SubscriptionButtonProps> = ({className,isPro})
     // }
   return (
     <div className={className}>
-       <a href="https://sourcefreeze.com/how-to-redirect-to-another-page-in-next-js/" target="_blank" rel="noopener noreferrer">
+       <a href="https://t.me/GeminiAI_Solana" target="_blank" rel="noopener noreferrer">
        <Button variant="outline" size="lg" disabled={loading}
         //  onClick={handleSubcribe}
           className={cn(
