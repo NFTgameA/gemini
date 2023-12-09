@@ -177,7 +177,7 @@ const PhotoPage = () => {
                 <FormItem className="w-full">
                   <FormControl>
                     <Textarea
-                      placeholder="Cat kiss dog"
+                      placeholder="Please enter the image you want to create..."
                       className="min-h-1 resize-none"
                       {...field}
                     />

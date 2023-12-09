@@ -62,7 +62,7 @@ const metadata = {
 
 createWeb3Modal({
   ethersConfig: defaultConfig({ metadata }),
-  themeMode:"light",
+  themeMode:"dark",
   
   
   

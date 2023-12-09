@@ -39,13 +39,13 @@ export const TOOLS:ToolItemProps[] = [
     color: "bg-green-500",
     slug: "code"
   },
-  {
-    title: "Feature Dex",
-    icon: "/icons/dex.svg",
-    url: "/dex",
-    color: "bg-green-500",
-    slug: "dex"
-  }
+//   {
+//     title: "Feature Dex",
+//     icon: "/icons/dex.svg",
+//     url: "/dex",
+//     color: "bg-green-500",
+//     slug: "dex"
+//   }
 ];
 
 export const NAVIGATIONS = [
