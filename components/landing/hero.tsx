@@ -47,7 +47,7 @@ const Hero = () => {
               <div className="mt-10 lg:flex items-center justify-center gap-x-6">
                 <Link href="/dashboard">
                   <Button className=" text-white gradient-btn w-full lg:w-auto mb-8 lg:mb-0" size="lg">
-                    Try Gemini Free
+                  Dashboard
                   </Button>
                 </Link>
                 <a href="https://twitter.com/GeminiAI_Dev" className="text-sm font-semibold leading-6 text-gray-400">

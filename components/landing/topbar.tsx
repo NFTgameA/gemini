@@ -11,7 +11,7 @@ const Topbar = () => {
         <Logo/>
         
         <div>
-          <Link href='./dashboard'>
+          <Link href='./conversation'>
              <Button className="gradient-btn">
                 <span className="mr-2">Get Started</span>
                 <Sparkles/>

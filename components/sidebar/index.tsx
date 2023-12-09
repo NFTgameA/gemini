@@ -76,7 +76,10 @@ const Sidebar: React.FC<SidebarProps> = ({ className, isProPlan, userLimitCount 
                                 !isProPlan &&
                                 <div className='mb-4 '>
                                     <div className='text-center mb-2 text-muted-foreground font-semibold'>
-                                        {userLimitCount}/{MAX_FREE_COUNTS} Free generations
+                                        {/* {userLimitCount}/{MAX_FREE_COUNTS} */}
+                                         <a href="http://" target="_blank" rel="noopener noreferrer">Telegram</a>
+                                         <a className="px-1"></a>
+                                         <a href="http://" target="_blank" rel="noopener noreferrer">Twitter</a>
                                     </div>
                                     <Progress
                                         // value={(userLimitCount / MAX_FREE_COUNTS) * 100}
