@@ -50,7 +50,7 @@ const Hero = () => {
                   Dashboard
                   </Button>
                 </Link>
-                <a href="https://twitter.com/GeminiAI_Solana" className="text-sm font-semibold leading-6 text-gray-400">
+                <a href="https://twitter.com/Gemini_Solana" className="text-sm font-semibold leading-6 text-gray-400">
                   Twitter <span aria-hidden="true">→</span>
                 </a>
                 <a href="https://t.me/GeminiAI_Solana" className="text-sm font-semibold leading-6 text-gray-400">

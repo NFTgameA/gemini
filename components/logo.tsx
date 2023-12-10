@@ -19,7 +19,7 @@ const Logo: React.FC<LogoProps> = ({ className  }) => {
         <div className={cn("flex items-center",
             className)}>
             {/* <BrainCircuit color='#0ea5e9' size={40} /> */}
-            <Image src={'gemini.png'} alt="Description of the image" width={140} height={2} style={{height:"92px"}} />
+            <Image src={'gemini.png'} alt="Description of the image" width={140} height={2} style={{height:"92px",width:"92px"}} />
 
             {/* đối tượng có sẵn chứ ko phải cái className bên trong */}
             <span className={cn("ml-2 font-bold text-3xl",poppins.className)}> 
